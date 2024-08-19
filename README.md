@@ -37,4 +37,4 @@ A modern React-based music player application built for the Samespace Front-End 
 ## Screenshots
 
 ### Music Player UI
-
+![UI](https://github.com/supriyachilwante/Music_Player_UI/blob/main/output/UI_output.png)
