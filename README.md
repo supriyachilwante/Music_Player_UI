@@ -13,11 +13,12 @@ A modern React-based music player application built for the Samespace Front-End 
 - Continuous playback during tab switches
 - Interactive UI with animations and transitions
 
-## Technologies Used
-- React.js
-- React Router
-- Styled-components
-- Axios
+## Technologies UseD
+- **Languages**: JavaScript, CSS, HTML
+- **Frameworks/Libraries**: React.js (for building user interfaces)
+- **Runtime Environment**: Node.js (for server-side scripting)
+- **Libraries**: React Router (for navigation), Styled-components (for styling), Axios (for API calls), GraphQL (for data querying)
+
 
 ## Setup and Installation
 - Clone the repository by running: `git clone https://github.com/your-username/music-player-ui.git`
