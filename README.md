@@ -6,12 +6,13 @@ A modern React-based music player application built for the Samespace Front-End 
 ## Features
 - Responsive design adaptable to various screen sizes
 - Music controls (play, pause, next, previous)
-- Song list display with cover images
+- Continuous playback during tab switches
+- Dynamic background gradient changes based on the current song's cover image
 - Search functionality for songs and artists
 - Tab-based navigation ("For You" and "Top Tracks")
-- Dynamic background gradient changes based on the current song's cover image
-- Continuous playback during tab switches
+- Song list display with cover images
 - Interactive UI with animations and transitions
+
 
 ## Technologies Used
 - **Languages**: JavaScript, CSS, HTML
@@ -30,6 +31,7 @@ A modern React-based music player application built for the Samespace Front-End 
 - Start the development server: `npm start`
 
 - Visit `http://localhost:3000` in your browser to view the application.
+
 
 ## API Integration
 - **API Endpoint**: `https://cms.samespace.com/items/songs`
