@@ -13,7 +13,7 @@ A modern React-based music player application built for the Samespace Front-End 
 - Continuous playback during tab switches
 - Interactive UI with animations and transitions
 
-## Technologies UseD
+## Technologies Used
 - **Languages**: JavaScript, CSS, HTML
 - **Frameworks/Libraries**: React.js (for building user interfaces)
 - **Runtime Environment**: Node.js (for server-side scripting)
